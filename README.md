@@ -1,7 +1,7 @@
 ## Estrutura Básica de HTML5 e CSS3
 professor: Jansen K Cara
 Turma: DS1A
-Aluno:  Nome do aluno
+Aluno:  Isabella Diniz
 
 ### Objetivo
 Desenvolver o nosso conhecimento sw HTML e CSS
@@ -35,11 +35,11 @@ Desenvolver o nosso conhecimento sw HTML e CSS
     <main>
         <section id="Sobre">
             <h2>Sobre mim</h2>
-            <p>Olá! Meu nome é Jansen, e sou um estudante que CSS e HTML</p>
+            <p>Olá! Meu nome é Isabella, e sou um estudante de CSS e HTML</p>
         </section>
     </main>
     <footer>
-        <p>$copy; 2026 Jansen. Todos os direitos reservados</p>
+        <p>$copy; 2026 Isabella. Todos os direitos reservados</p>
     </footer>
 </body>
 
